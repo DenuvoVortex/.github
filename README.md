@@ -1,5 +1,5 @@
 <div align="center">
-#  👾 Denuvo Vortex
+# 👾 Denuvo Vortex
  
 **A community of modders, reverse engineers, and developers building tools around Steam, Denuvo, and beyond.**
  
