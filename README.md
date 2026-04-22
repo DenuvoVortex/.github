@@ -1,7 +1,7 @@
 <div align="center">
 <h1> 👾 Denuvo Vortex </h1>
 
-**A community of modders, reverse engineers, and developers building tools around Steam, Denuvo, and beyond.**
+**A community built around game activations, with a passion for reverse engineering, DRM research, and developer tooling.**
 
 [![Discord](https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gzzfPhxvxQ)
 
@@ -11,9 +11,9 @@
 
 ## 👋 Welcome
 
-Denuvo Vortex is an open community for people passionate about game tooling, DRM research, and reverse engineering. Whether you're here to use our tools, contribute code, or just hang out and talk shop — you're welcome here.
+Denuvo Vortex is a community centered around game activations. We offer a reliable, friendly space where members can get their games activated and get help when things don't go as expected. Beyond activations, we're also home to developers and reverse engineers who build tooling around Steam, Denuvo, and related platforms.
 
-We build practical, community-driven software with a focus on quality and usability. Our tools are developed in the open and shaped by feedback from the people who use them.
+Whether you're here to get a game activated, contribute to our open-source tools, or just hang out and talk shop — you're welcome here.
 
 ---
 
@@ -32,9 +32,8 @@ Same idea — a polished GUI for Ubisoft tooling, making things accessible to us
 
 ### 🔮 Future Projects
 We're always exploring new territory. Upcoming work may include tooling around:
-- Steam internals & authentication flows
+- steamtools related tooling
 - Denuvo-related research and utilities
-- General game preservation and compatibility tooling
 
 > 💡 Have an idea or want to contribute? Jump into our [Discord](https://discord.gg/gzzfPhxvxQ) and let us know.
 
